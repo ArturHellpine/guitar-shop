@@ -1,0 +1,22 @@
+
+
+
+.error-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;  
+}
+
+
+.error-message{
+    text-align: center;
+    padding: 20px 40px;
+    background-color: #333333;
+    box-shadow: var(--box-shadow);
+    color: #fff;
+    width: 700px;
+    border-radius: 8px;
+    margin-top: 25px;
+}
+
+
